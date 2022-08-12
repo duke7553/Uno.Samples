@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "App24.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
